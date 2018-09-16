@@ -8,7 +8,6 @@ gscounters.eu1.gigya.com
 gstatic.com
 haggler-doubleclick334-eu-c-ec2.liftoff.io
 img.thuis.nl
-manifest.googlevideo.com
 mobile.pipe.aria.microsoft.com
 p2-cyl5bnatqxbdu-b3pg5r2wcldrjf2s-187580-i1-v6exp3.ds.metric.gstatic.com
 p2-m7ertfio43sxs-ueja7pxmgfgrgkzr-if-v6exp3-v4.metric.gstatic.com
