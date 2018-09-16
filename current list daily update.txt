@@ -15,6 +15,7 @@ mobile.pipe.aria.microsoft.com
 p2-cyl5bnatqxbdu-b3pg5r2wcldrjf2s-187580-i1-v6exp3.ds.metric.gstatic.com
 p2-m7ertfio43sxs-ueja7pxmgfgrgkzr-if-v6exp3-v4.metric.gstatic.com
 pagead1.googlesyndication.com
+pagead2
 pagead2.googlesyndication.com
 pagead3.googlesyndication.com
 pagead4.googlesyndication.com
@@ -49,6 +50,7 @@ r12---sn-5hne6nse.googlevideo.com
 r16---sn-5hne6nse.googlevideo.com
 r16---sn-nx57yn7y.googlevideo.com
 r2---sn-4g5e6nlk.googlevideo.com
+r2---sn-4g5e6nls.googlevideo.com
 r2---sn-4g5ednll.googlevideo.com
 r2---sn-5hne6ns6.googlevideo.com
 r2---sn-5hne6nsd.googlevideo.com
@@ -61,6 +63,7 @@ r2---sn-5hnednlk.googlevideo.com
 r2---sn-5hnednlr.googlevideo.com
 r2---sn-5hnekn76.googlevideo.com
 r2---sn-5hnekn7d.googlevideo.com
+r2---sn-5hnekn7k.googlevideo.com
 r2---sn-5hnekn7l.googlevideo.com
 r2---sn-5hnekn7z.googlevideo.com
 r2---sn-q4f7sn7s.googlevideo.com
