@@ -16,6 +16,14 @@ pagead1.googlesyndication.com
 pagead2.googlesyndication.com
 pagead3.googlesyndication.com
 pagead4.googlesyndication.com
+pagead5.googlesyndication.com
+pagead6.googlesyndication.com
+pagead7.googlesyndication.com
+pagead8.googlesyndication.com
+pagead9.googlesyndication.com
+pagead10.googlesyndication.com
+pagead11.googlesyndication.com
+pagead12.googlesyndication.com
 pixel.facebook.com
 playatoms-pa.googleapis.com
 r1---sn-25glenez.googlevideo.com
@@ -128,7 +136,6 @@ r6---sn-5hne6n7z.googlevideo.com
 r6---sn-5hne6nse.googlevideo.com
 r6---sn-5hnednlk.googlevideo.com
 r6---sn-vgqsenls.googlevideo.com
-s.ytimg.com
 static.doubleclick.net
 wpad.lan
 yt3.ggpht.com
