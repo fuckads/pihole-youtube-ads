@@ -1,11 +1,11 @@
-#best pihole users,
-#this is my first list
+	#best pihole users,
+	#this is my first list
 
-#-->
-#current 17-spetember utc+1 23:56
-#{5.225669 domeins on the blocklist}
-#current on the ads list -->{10490}
-#<--> my personal blocklist at my pihole <-->  if you have one to ad to the list please enter it in comments
+	#-->
+	#current 17-spetember utc+1 23:56
+	#{5.225669 domeins on the blocklist}
+	#current on the ads list -->{10490}
+	#<--> my personal blocklist at my pihole <-->  if you have one to ad to the list please enter it in comments
 
 	http://adblock.amroemischengutshof.de/youtube-ads-list.txt	
 	https://api.hackertarget.com/hostsearch/?q=googlevideo.com	
