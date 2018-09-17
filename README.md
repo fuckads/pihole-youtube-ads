@@ -5,7 +5,8 @@
 	#current 17-spetember utc+1 23:56
 	#{5.225669 domeins on the blocklist}
 	#current on the ads list -->{10490}
-	#<--> my personal blocklist at my pihole <-->  if you have one to ad to the list please enter it in comments
+	#<--> my personal blocklist at my pihole
+	#<-->  if you have one to add to the list please enter it in isue
 
 	http://adblock.amroemischengutshof.de/youtube-ads-list.txt	
 	https://api.hackertarget.com/hostsearch/?q=googlevideo.com	
