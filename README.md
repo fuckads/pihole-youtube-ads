@@ -2,7 +2,8 @@ best pihole users,
 this is my first list
 
 -->
-
+current 17-spetember utc+1
+5.242.269 domeins on the blocklist
 <--
 
 <--> my personal blocklist at my pihole <-->  if you have one to ad to the list please enter it in comments
