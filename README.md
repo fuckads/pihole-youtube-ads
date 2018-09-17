@@ -15,10 +15,6 @@ this is my first list
 	https://hosts-file.net/ad_servers.txt	
 	https://tspprs.com/dl/cl1	
 	https://v.firebog.net/hosts/lists.php?type=all	
-	https://github.com/anudeepND/youtubeadsblacklist/blob/master/domainlist.txt	
-	https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt	
-	http://adblock.amroemischengutshof.de/youtube-ads-list.txt	
-	https://api.hackertarget.com/hostsearch/?q=googlevideo.com	
 	https://tspprs.com/dl/olmd	
 	https://tspprs.com/dl/tracking	
 	https://tspprs.com/dl/suspicious	
