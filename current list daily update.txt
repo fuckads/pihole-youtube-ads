@@ -70,14 +70,9 @@
 2-beo27pynmkciw-3voaunfogqstrr3c-101016-i1.stbcast.metric.gstatic.com
 ams1-ib.adnxs.com
 cdn.hasmobi.net
-clients6.google.com
 elb-p-dms-dls-ew1-1486943014.eu-west-1.elb.amazonaws.com
 gcdn.2mdn.net
-googleads.g.doubleclick.net
-googleads.g.doubleclick.net.lan
 gscounters.eu1.gigya.com
-gstatic.com
-haggler-doubleclick334-eu-c-ec2.liftoff.io
 img.thuis.nl
 mobile.pipe.aria.microsoft.com
 p2-assmgqwv3pp4c-lm7pbprzouthu6yr-268077-i1-v6exp3-ds.metric.ipv6test.net
