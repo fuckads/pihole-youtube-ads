@@ -10483,7 +10483,6 @@ r9.snoguesn76.googlevideo.com
 redirector.googlevideo.com
 s0.2mdn.net
 tpc.googlesyndication.com
-wpad.lan
 www.bing.com
 www.youtube-nocookie.com
 zc.adswizz.com
